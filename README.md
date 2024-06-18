@@ -1,5 +1,5 @@
 ## Olá programers 👋
-- 🔭 Só estudando e criando projetos... E modificando dando um toque de diferença!
+- 🔭 Só estudando e criando projetos... E os modificando, dando um toque de diferença!
 
 <!--
 **MeSGuel/MeSGuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
