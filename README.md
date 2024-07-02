@@ -1,5 +1,5 @@
 ## Olá programers 👋
-- 🔭 Só estudando e criando projetos... E os modificando, dando um toque de diferença!
+- 🔭 Me chamo Miguel, uma coisa sobre mim é que gosto bastante de um toque pessoal - não curto muito ficar copiando os outro sabe?
 
 <!--
 **MeSGuel/MeSGuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
