@@ -12,7 +12,6 @@ Uma das grandes qualidades que tenho, é o meu interesse em aprender mais! Adoro
   
 #
 <div style="display: inline-block">
-  <a href="https://github.com/MeSGuel" target="_blank" />
   <img src="https://github-readme-stats.vercel.app/api?username=MeSGuel&show_icons=true&theme=dark&include_all_commits=true&count_private=false" alt="Your Github Stats"> 
 </div>
 <div style="display: inline-block">
