@@ -12,8 +12,11 @@ Uma das grandes qualidades que tenho, é o meu interesse em aprender mais! Adoro
   
 #
 <div style="display: inline-block">
-  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://github.com/MeSGuel" target="_blank" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MeSGuel&show_icons=true&theme=dark&include_all_commits=true&count_private=false" alt="Your Github Stats"> 
 </div>
-
+<div style="display: inline-block">
+  <img align="center" alt="MeSGuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="MeSGuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="MeSGuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
