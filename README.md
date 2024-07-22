@@ -14,7 +14,7 @@ Uma das grandes qualidades que tenho, é o meu interesse em aprender mais! Adoro
 
 <div style="display: flex;">
   <a href="https://github.com/MeSGuel" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MeSGuel&show_icons=true&theme=dark&include_all_commits=true&count_private=false" alt="Your Github Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeSGuel&show_icons=true&theme=dark&include_all_commits=true&count_private=false" alt="Your Github Stats">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeSGuel&layout=compact&theme=dark&langs_count=10&card_width=400&custom_height=300" alt="Top Langs">
 </div>
     
