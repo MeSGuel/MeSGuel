@@ -23,9 +23,7 @@ Uma das grandes qualidades que tenho, é o meu interesse em aprender mais! Adoro
   <a href="https://github.com/MeSGuel" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeSGuel&layout=compact&theme=dark&langs_count=10&card_width=400&custom_height=300" alt="Top Langs">
 </div>
-
-##
-
+<br>
 <div> 
   <a target="_blank" href="#"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:miguelmgsantos64@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
