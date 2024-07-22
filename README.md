@@ -9,18 +9,18 @@ Por ser uma pessoa criativa que gosta de se expressar a sua própria maneira, e 
 <p>
 Uma das grandes qualidades que tenho, é o meu interesse em aprender mais! Adoro aprender coisas diferentes, porque isso abre mais a minha cachola, me permite criar mais e resolver mais problemas.
 </p>
-  
-##
-
-<div style="display: flex;">
-  <a href="https://github.com/MeSGuel" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeSGuel&layout=compact&theme=dark&langs_count=10&card_width=400&custom_height=300" alt="Top Langs">
-</div>
 
 <div style="display: inline-block">
   <img align="center" alt="MeSGuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MeSGuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MeSGuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+##
+
+<div style="display: flex;">
+  <a href="https://github.com/MeSGuel" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeSGuel&layout=compact&theme=dark&langs_count=10&card_width=400&custom_height=300" alt="Top Langs">
 </div>
 
 ##
