@@ -16,8 +16,6 @@ Uma das grandes qualidades que tenho, é o meu interesse em aprender mais! Adoro
   <a href="https://github.com/MeSGuel" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeSGuel&layout=compact&theme=dark&langs_count=10&card_width=400&custom_height=300" alt="Top Langs">
 </div>
-    
-<br> 
 
 <div style="display: inline-block">
   <img align="center" alt="MeSGuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
