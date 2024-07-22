@@ -12,9 +12,10 @@ Uma das grandes qualidades que tenho, é o meu interesse em aprender mais! Adoro
   
 ##
 
-<div style="display: inline-block">
+<div style="display: flex;">
   <a href="https://github.com/MeSGuel" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MeSGuel&show_icons=true&theme=dark&include_all_commits=true&count_private=false" alt="Your Github Stats"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=MeSGuel&show_icons=true&theme=dark&include_all_commits=true&count_private=false" alt="Your Github Stats">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeSGuel&layout=compact&theme=dark&langs_count=10&card_width=400&custom_height=300" alt="Top Langs">
 </div>
     
 <div style="display: inline-block">
@@ -23,9 +24,9 @@ Uma das grandes qualidades que tenho, é o meu interesse em aprender mais! Adoro
   <img align="center" alt="MeSGuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<br>
+##
 
 <div> 
-  <a href="https://www.linkedin.com/in/charlesbrcosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:charlesbrcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a target="_blank" href="#"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:miguelmgsantos64@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
