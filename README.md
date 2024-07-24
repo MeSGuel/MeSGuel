@@ -7,7 +7,7 @@ Sou um estudante da área de Front-end, quero me tornar um desenvolvedor complet
 Por ser uma pessoa criativa que gosta de se expressar a sua própria maneira, e gostar bastante de design, eu acabei me apegando ao Front-end, claro não é só a parte do design que me puxou, também adoro botar minha cabeça pra pensar e decifrar problemas!  
 </p>
 <p>
-Uma das grandes qualidades que tenho, é o meu interesse em aprender mais! Adoro aprender coisas diferentes, porque isso abre mais a minha cachola, me permite criar mais e resolver mais problemas.
+🤓 Uma das grandes qualidades que tenho, é o meu interesse em aprender mais! Adoro aprender coisas diferentes, porque isso abre mais a minha cachola, me permite criar mais e resolver mais problemas.
 </p>
 
 ### 🪨 Minhas Skills:
