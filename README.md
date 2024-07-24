@@ -10,7 +10,7 @@ Por ser uma pessoa criativa que gosta de se expressar a sua própria maneira, e 
 Uma das grandes qualidades que tenho, é o meu interesse em aprender mais! Adoro aprender coisas diferentes, porque isso abre mais a minha cachola, me permite criar mais e resolver mais problemas.
 </p>
 
-### 🪨 Hard Skills:
+### 🪨 Minhas Habilidades:
 <div style="display: inline-block">
   <img align="center" alt="MeSGuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MeSGuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
