@@ -1,5 +1,5 @@
 <h1>Olá, olá! Me chamo Miguel, muito prazer!</h1>
-
+Criei um link para a página principal do GitHub: <a href="https://github.com" target="_blank">GitHub</a>
 <h3>👋 Deixe-me me apresentar:</h3>
 <strong>Como eu disse acima, me chamo Miguel, Miguel Santos.</strong>
 <p>
